@@ -1,0 +1,32 @@
+---
+title: 'eWand: An Extrinsic Calibration Framework for Wide Baseline Frame-Based and
+  Event-Based Camera Systems'
+authors:
+- Thomas Gossard
+- Andreas Ziegler
+- Levin Kolmar
+- Jonas Tebbe
+- Andreas Zell
+date: '2023-09-22'
+publishDate: '2023-12-24T14:32:30.729534Z'
+publication_types:
+- book
+doi: 10.48550/arXiv.2309.12685
+abstract: Accurate calibration is crucial for using multiple cameras to triangulate
+  the position of objects precisely. However, it is also a time-consuming process
+  that needs to be repeated for every displacement of the cameras. The standard approach
+  is to use a printed pattern with known geometry to estimate the intrinsic and extrinsic
+  parameters of the cameras. The same idea can be applied to event-based cameras,
+  though it requires extra work. By using frame reconstruction from events, a printed
+  pattern can be detected. A blinking pattern can also be displayed on a screen. Then,
+  the pattern can be directly detected from the events. Such calibration methods can
+  provide accurate intrinsic calibration for both frame-and event-based cameras. However,
+  using 2D patterns has several limitations for multi-camera extrinsic calibration,
+  with cameras possessing highly different points of view and a wide baseline. The
+  2D pattern can only be detected from one direction and needs to be of significant
+  size to compensate for its distance to the camera. This makes the extrinsic calibration
+  time-consuming and cumbersome. To overcome these limitations, we propose eWand,
+  a new method that uses blinking LEDs inside opaque spheres instead of a printed
+  or displayed pattern. Our method provides a faster, easier-to-use extrinsic calibration
+  approach that maintains high accuracy for both event-and frame-based cameras.
+---
