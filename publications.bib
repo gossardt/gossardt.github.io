@@ -1,0 +1,44 @@
+@book{gossard2023EWand,
+  title = {{{eWand}}: {{An}} Extrinsic Calibration Framework for Wide Baseline Frame-Based and Event-Based Camera Systems},
+  shorttitle = {{{eWand}}},
+  author = {Gossard, Thomas and Ziegler, Andreas and Kolmar, Levin and Tebbe, Jonas and Zell, Andreas},
+  date = {2023-09-22},
+  doi = {10.48550/arXiv.2309.12685},
+  abstract = {Accurate calibration is crucial for using multiple cameras to triangulate the position of objects precisely. However, it is also a time-consuming process that needs to be repeated for every displacement of the cameras. The standard approach is to use a printed pattern with known geometry to estimate the intrinsic and extrinsic parameters of the cameras. The same idea can be applied to event-based cameras, though it requires extra work. By using frame reconstruction from events, a printed pattern can be detected. A blinking pattern can also be displayed on a screen. Then, the pattern can be directly detected from the events. Such calibration methods can provide accurate intrinsic calibration for both frame-and event-based cameras. However, using 2D patterns has several limitations for multi-camera extrinsic calibration, with cameras possessing highly different points of view and a wide baseline. The 2D pattern can only be detected from one direction and needs to be of significant size to compensate for its distance to the camera. This makes the extrinsic calibration time-consuming and cumbersome. To overcome these limitations, we propose eWand, a new method that uses blinking LEDs inside opaque spheres instead of a printed or displayed pattern. Our method provides a faster, easier-to-use extrinsic calibration approach that maintains high accuracy for both event-and frame-based cameras.},
+  annotation = {00000},
+  file = {/home/tg/Zotero/storage/GV7I7U8H/Gossard et al. - 2023 - eWand An extrinsic calibration framework for wide.pdf}
+}
+
+@inproceedings{gossard2023SpinDOE,
+  title = {{{SpinDOE}}: {{A Ball Spin Estimation Method}} for {{Table Tennis Robot}}},
+  shorttitle = {{{SpinDOE}}},
+  author = {Gossard, Thomas and Tebbe, Jonas and Ziegler, Andreas and Zell, Andreas},
+  date = {2023-10-01},
+  pages = {5744--5750},
+  doi = {10.1109/IROS55552.2023.10342178},
+  annotation = {00001},
+  file = {/home/tg/Zotero/storage/QYHXBVMJ/Gossard et al. - 2023 - SpinDOE A Ball Spin Estimation Method for Table T.pdf}
+}
+
+@book{ziegler2022Realtime,
+  title = {Real-Time Event Simulation with Frame-Based Cameras},
+  author = {Ziegler, Andreas and Teigland, Daniel and Tebbe, Jonas and Gossard, Thomas and Zell, Andreas},
+  date = {2022-09-10},
+  doi = {10.48550/arXiv.2209.04634},
+  abstract = {Event cameras are becoming increasingly popular in robotics and computer vision due to their beneficial properties, e.g., high temporal resolution, high bandwidth, almost no motion blur, and low power consumption. However, these cameras remain expensive and scarce in the market, making them inaccessible to the majority. Using event simulators minimizes the need for real event cameras to develop novel algorithms. However, due to the computational complexity of the simulation, the event streams of existing simulators cannot be generated in real-time but rather have to be pre-calculated from existing video sequences or pre-rendered and then simulated from a virtual 3D scene. Although these offline generated event streams can be used as training data for learning tasks, all response time dependent applications cannot benefit from these simulators yet, as they still require an actual event camera. This work proposes simulation methods that improve the performance of event simulation by two orders of magnitude (making them real-time capable) while remaining competitive in the quality assessment.},
+  annotation = {00000},
+  file = {/home/tg/Zotero/storage/2Q33LXDJ/Ziegler et al. - 2022 - Real-time event simulation with frame-based camera.pdf}
+}
+
+@inproceedings{ziegler2023Multimodal,
+  title = {A Multi-Modal Table Tennis Robot System},
+  author = {Ziegler, Andreas and Gossard, Thomas and Vetter, Karl and Tebbe, Jonas and Zell, Andreas},
+  date = {2023-10-24},
+  url = {https://openreview.net/forum?id=KdnxLFwhQJ},
+  urldate = {2023-12-24},
+  abstract = {In recent years, robotic table tennis has become a popular research challenge for perception and robot control. Here, we present an improved tabl tennis robot system with high accuracy vision detection and fast robot reaction. Based on previous work, our system contains a KUKA robot arm with 6 DOF, with four frame-based cameras and two additional event-based cameras. We developed a novel calibration approach to calibrate this multimodal perception system. For table tennis, spin estimation is crucial. Therefore, we introduced a novel, and more accurate spin estimation approach. Finally, we show how combining the output of an event-based camera and a Spiking Neural Network (SNN) can be used for accurate ball detection.},
+  eventtitle = {{{RoboLetics}}: {{Workshop}} on {{Robot Learning}} in {{Athletics}} @{{CoRL}} 2023},
+  langid = {english},
+  annotation = {00000},
+  file = {/home/tg/Zotero/storage/T76FYFHP/Ziegler et al. - 2023 - A multi-modal table tennis robot system.pdf}
+}
