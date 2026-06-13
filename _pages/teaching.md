@@ -5,11 +5,16 @@ title: teaching
 description: Course materials, schedules, and resources for classes taught.
 nav: true
 nav_order: 6
-calendar: true
+calendar: false
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+## Teaching
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+**Teaching Assistant, University of Tübingen**  
+Mobile Robot Practical Course, 2022-2025.
 
-{% include courses.liquid %}
+I supervised students working with ROS2 and standard robotics algorithms in C++.
+
+## Reviewing
+
+Reviewer for ICRA, IROS, RAL, NeurIPS, and CVPR.
