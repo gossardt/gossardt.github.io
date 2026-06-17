@@ -1,3 +1,55 @@
 metadata:
-  last_updated:
-papers: {}
+  last_updated: '2026-06-17'
+papers:
+  cBo1NCwAAAAJ:2osOgNQ5qMEC:
+    citations: 27
+    title: 'Spindoe: A ball spin estimation method for table tennis robot'
+    year: '2023'
+  cBo1NCwAAAAJ:9yKSN-GCB0IC:
+    citations: 26
+    title: Table tennis ball spin estimation with an event camera
+    year: '2024'
+  cBo1NCwAAAAJ:Se3iqnhoufwC:
+    citations: 0
+    title: 'TT4D: A Pipeline and Dataset for Table Tennis 4D Reconstruction From Monocular Videos'
+    year: '2026'
+  cBo1NCwAAAAJ:Tyk-4Ss8FVUC:
+    citations: 12
+    title: 'eWand: An extrinsic calibration framework for wide baseline frame-based and event-based camera systems'
+    year: '2024'
+  cBo1NCwAAAAJ:UeHWp8X0CEIC:
+    citations: 4
+    title: A multi-modal table tennis robot system
+    year: '2023'
+  cBo1NCwAAAAJ:W7OEmFMy1HYC:
+    citations: 18
+    title: Detection of fast-moving objects with neuromorphic hardware
+    year: '2025'
+  cBo1NCwAAAAJ:WF5omc3nYNoC:
+    citations: 2
+    title: 'BiasBench: A reproducible benchmark for tuning the biases of event cameras'
+    year: '2025'
+  cBo1NCwAAAAJ:YsMSGLbcyi4C:
+    citations: 3
+    title: An event-based perception pipeline for a table tennis robot
+    year: '2025'
+  cBo1NCwAAAAJ:_FxGoFyzp5QC:
+    citations: 1
+    title: 'Sound-Based Spin Estimation in Table Tennis: Dataset and Real-Time Classification Pipeline'
+    year: '2025'
+  cBo1NCwAAAAJ:eQOLeE2rZwMC:
+    citations: 8
+    title: 'TT3D: Table tennis 3d reconstruction'
+    year: '2025'
+  cBo1NCwAAAAJ:roLk4NBRz8UC:
+    citations: 0
+    title: Learning Racket-Ball Bounce Dynamics Across Diverse Rubbers for Robotic Table Tennis
+    year: '2026'
+  cBo1NCwAAAAJ:u5HHmVD_uO8C:
+    citations: 12
+    title: Real-time event simulation with frame-based cameras
+    year: '2023'
+  cBo1NCwAAAAJ:ufrVoPGSRksC:
+    citations: 2
+    title: 'Blurball: Joint ball and motion blur estimation for table tennis ball tracking'
+    year: '2026'
