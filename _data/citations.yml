@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-06-17'
+  last_updated: '2026-07-10'
 papers:
   cBo1NCwAAAAJ:2osOgNQ5qMEC:
-    citations: 27
+    citations: 28
     title: 'Spindoe: A ball spin estimation method for table tennis robot'
     year: '2023'
   cBo1NCwAAAAJ:9yKSN-GCB0IC:
-    citations: 26
+    citations: 27
     title: Table tennis ball spin estimation with an event camera
     year: '2024'
   cBo1NCwAAAAJ:Se3iqnhoufwC:
@@ -22,15 +22,15 @@ papers:
     title: A multi-modal table tennis robot system
     year: '2023'
   cBo1NCwAAAAJ:W7OEmFMy1HYC:
-    citations: 18
+    citations: 19
     title: Detection of fast-moving objects with neuromorphic hardware
     year: '2025'
   cBo1NCwAAAAJ:WF5omc3nYNoC:
-    citations: 2
+    citations: 3
     title: 'BiasBench: A reproducible benchmark for tuning the biases of event cameras'
     year: '2025'
   cBo1NCwAAAAJ:YsMSGLbcyi4C:
-    citations: 3
+    citations: 4
     title: An event-based perception pipeline for a table tennis robot
     year: '2025'
   cBo1NCwAAAAJ:_FxGoFyzp5QC:
@@ -46,10 +46,10 @@ papers:
     title: Learning Racket-Ball Bounce Dynamics Across Diverse Rubbers for Robotic Table Tennis
     year: '2026'
   cBo1NCwAAAAJ:u5HHmVD_uO8C:
-    citations: 12
+    citations: 14
     title: Real-time event simulation with frame-based cameras
     year: '2023'
   cBo1NCwAAAAJ:ufrVoPGSRksC:
-    citations: 2
+    citations: 3
     title: 'Blurball: Joint ball and motion blur estimation for table tennis ball tracking'
     year: '2026'
