@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-22'
+  last_updated: '2026-07-29'
 papers:
   cBo1NCwAAAAJ:2osOgNQ5qMEC:
     citations: 30
@@ -22,9 +22,9 @@ papers:
     title: A multi-modal table tennis robot system
     year: '2023'
   cBo1NCwAAAAJ:W7OEmFMy1HYC:
-    citations: 20
+    citations: 21
     title: Detection of fast-moving objects with neuromorphic hardware
-    year: '2025'
+    year: '2024'
   cBo1NCwAAAAJ:WF5omc3nYNoC:
     citations: 3
     title: 'BiasBench: A reproducible benchmark for tuning the biases of event cameras'
@@ -52,4 +52,4 @@ papers:
   cBo1NCwAAAAJ:ufrVoPGSRksC:
     citations: 3
     title: 'Blurball: Joint ball and motion blur estimation for table tennis ball tracking'
-    year: '2026'
+    year: '2025'
