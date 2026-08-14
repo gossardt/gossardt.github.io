@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-03'
+  last_updated: '2026-08-14'
 papers:
   cBo1NCwAAAAJ:2osOgNQ5qMEC:
     citations: 30
@@ -52,4 +52,4 @@ papers:
   cBo1NCwAAAAJ:ufrVoPGSRksC:
     citations: 3
     title: 'Blurball: Joint ball and motion blur estimation for table tennis ball tracking'
-    year: '2025'
+    year: '2026'
