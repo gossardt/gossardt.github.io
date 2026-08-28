@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-19'
+  last_updated: '2026-08-28'
 papers:
   cBo1NCwAAAAJ:2osOgNQ5qMEC:
     citations: 31
@@ -30,11 +30,11 @@ papers:
     title: Detection of fast-moving objects with neuromorphic hardware
     year: '2025'
   cBo1NCwAAAAJ:WF5omc3nYNoC:
-    citations: 3
+    citations: 4
     title: 'BiasBench: A reproducible benchmark for tuning the biases of event cameras'
     year: '2025'
   cBo1NCwAAAAJ:YsMSGLbcyi4C:
-    citations: 6
+    citations: 7
     title: An event-based perception pipeline for a table tennis robot
     year: '2025'
   cBo1NCwAAAAJ:_FxGoFyzp5QC:
